@@ -7,6 +7,1767 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
+                    "v": "ИП Ковалёв Е.И.",
+                    "pu": "nme"
+                },
+                {
+                    "pl": "Посмотреть это объявление на сайте продавца",
+                    "vl": "",
+                    "p": "import_link",
+                    "v": "https://instagram.com/icenterby?igshid=YmMyMTA2M2Y=",
+                    "pu": "il"
+                },
+                {
+                    "pl": "Адрес торговой точки",
+                    "vl": "",
+                    "p": "shop_address",
+                    "v": "Победы пр, 29, Гомель, Гомельская область, Бульвар",
+                    "pu": "sa"
+                },
+                {
+                    "pl": "Юридический адрес/Адрес регистрации",
+                    "vl": "",
+                    "p": "company_address",
+                    "v": "г. Гомель, пр-т Космонавтов д. 30, кв. 72",
+                    "pu": "ca"
+                },
+                {
+                    "pl": "Ссылка на интернет-магазин",
+                    "vl": "",
+                    "p": "web_shop_link",
+                    "v": "https://applegomel.by",
+                    "pu": "wsl"
+                },
+                {
+                    "pl": "УНП",
+                    "vl": "",
+                    "p": "vat_number",
+                    "v": "491592595",
+                    "pu": "vn"
+                }
+            ],
+            "ad_id": 188977076,
+            "ad_link": "https://www.kufar.by/item/188977076",
+            "ad_parameters": [
+                {
+                    "pl": "Товары с доставкой в регионы",
+                    "vl": "Да",
+                    "p": "multiregion_enabled",
+                    "v": true,
+                    "pu": "mle"
+                },
+                {
+                    "pl": "Товары с доставкой в регионы",
+                    "vl": [
+                        "Вся Беларусь",
+                        "Брестская",
+                        "Гомельская",
+                        "Гродненская",
+                        "Могилевская",
+                        "Минская",
+                        "Витебская",
+                        "Минск"
+                    ],
+                    "p": "multiregion_regions",
+                    "v": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "pu": "mlr"
+                },
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 13 Pro",
+                    "p": "phones_model",
+                    "v": "5385",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "4 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "10",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": true,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "4077333025",
+                    "yams_storage": true
+                },
+                {
+                    "id": "4029306091",
+                    "yams_storage": true
+                },
+                {
+                    "id": "4089820007",
+                    "yams_storage": true
+                },
+                {
+                    "id": "4030156774",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 161999460,
+            "list_time": "2023-05-03T11:11:47Z",
+            "message_id": "adid188977076",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "269000",
+            "price_usd": "93231",
+            "remuneration_type": "1",
+            "subject": "iPhone 13 Pro 128 Gb 100% АКБ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Адрес торговой точки",
+                    "vl": "",
+                    "p": "shop_address",
+                    "v": "Победы пр, 29, Гомель, Гомельская область, Бульвар",
+                    "pu": "sa"
+                },
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "ИП Ковалёв Е.И.",
+                    "pu": "nme"
+                },
+                {
+                    "pl": "Ссылка на интернет-магазин",
+                    "vl": "",
+                    "p": "web_shop_link",
+                    "v": "https://applegomel.by",
+                    "pu": "wsl"
+                },
+                {
+                    "pl": "Юридический адрес/Адрес регистрации",
+                    "vl": "",
+                    "p": "company_address",
+                    "v": "г. Гомель, пр-т Космонавтов д. 30, кв. 72",
+                    "pu": "ca"
+                },
+                {
+                    "pl": "УНП",
+                    "vl": "",
+                    "p": "vat_number",
+                    "v": "491592595",
+                    "pu": "vn"
+                }
+            ],
+            "ad_id": 193093180,
+            "ad_link": "https://www.kufar.by/item/193093180",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Товары с доставкой в регионы",
+                    "vl": [
+                        "Вся Беларусь",
+                        "Брестская",
+                        "Гомельская",
+                        "Гродненская",
+                        "Могилевская",
+                        "Минская",
+                        "Витебская",
+                        "Минск"
+                    ],
+                    "p": "multiregion_regions",
+                    "v": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "pu": "mlr"
+                },
+                {
+                    "pl": "Товары с доставкой в регионы",
+                    "vl": "Да",
+                    "p": "multiregion_enabled",
+                    "v": true,
+                    "pu": "mle"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 13",
+                    "p": "phones_model",
+                    "v": "5380",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Доставка от продавца",
+                    "vl": "Да",
+                    "p": "delivery_pro",
+                    "v": true,
+                    "pu": "dlpr"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": true,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7499357541",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7490834222",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7451585297",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7482310903",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7426015340",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7473787584",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7434538659",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7443061978",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 164894471,
+            "list_time": "2023-05-03T11:11:25Z",
+            "message_id": "adid193093180",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "198000",
+            "price_usd": "68624",
+            "remuneration_type": "1",
+            "subject": "iPhone 13 128 Gb Midnight ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Лека",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193827603,
+            "ad_link": "https://www.kufar.by/item/193827603",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Товары от Куфар Маркета",
+                    "vl": "-",
+                    "p": "b2c_availability",
+                    "v": false,
+                    "pu": "b2c"
+                },
+                {
+                    "pl": "Кнопочный телефон",
+                    "vl": "-",
+                    "p": "phablet_phones_featurephone",
+                    "v": false,
+                    "pu": "phf"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "IPhone 6s",
+                    "p": "phones_model",
+                    "v": "205",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "16 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "5",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "-",
+                    "p": "possible_exchange",
+                    "v": false,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "8063580684",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8029487408",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8035730899",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8006197279",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8042570383",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8027803573",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8004513444",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165465979,
+            "list_time": "2023-05-03T11:00:41Z",
+            "message_id": "adid193827603",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "8000",
+            "price_usd": "2773",
+            "remuneration_type": "1",
+            "subject": "IPhone 6s",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Екатерина ",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193824530,
+            "ad_link": "https://www.kufar.by/item/193824530",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Товары от Куфар Маркета",
+                    "vl": "-",
+                    "p": "b2c_availability",
+                    "v": false,
+                    "pu": "b2c"
+                },
+                {
+                    "pl": "Кнопочный телефон",
+                    "vl": "-",
+                    "p": "phablet_phones_featurephone",
+                    "v": false,
+                    "pu": "phf"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "256 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "25",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "-",
+                    "p": "possible_exchange",
+                    "v": false,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "8086646036",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8071879226",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165463439,
+            "list_time": "2023-05-03T10:34:31Z",
+            "message_id": "adid193824530",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "300000",
+            "price_usd": "103975",
+            "remuneration_type": "1",
+            "subject": "Iphone 12 pro max 256 silver",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Дина",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193824995,
+            "ad_link": "https://www.kufar.by/item/193824995",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Другие марки",
+                    "p": "phones_brand",
+                    "v": "47",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "Android",
+                    "p": "phablet_phones_os",
+                    "v": "1",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "256 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "25",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Новое",
+                    "p": "condition",
+                    "v": "2",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "8000203329",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8062846527",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8011810757",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8039660542",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8012406750",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165462531,
+            "list_time": "2023-05-03T10:24:35Z",
+            "message_id": "adid193824995",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "70000",
+            "price_usd": "24261",
+            "remuneration_type": "1",
+            "subject": "Мобильный телефон ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Игорь ",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193819149,
+            "ad_link": "https://www.kufar.by/item/193819149",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 12 Pro",
+                    "p": "phones_model",
+                    "v": "3745",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "-",
+                    "p": "possible_exchange",
+                    "v": false,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "8067957858",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8029409070",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8076481177",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165457283,
+            "list_time": "2023-05-03T09:29:25Z",
+            "message_id": "adid193819149",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "170000",
+            "price_usd": "58919",
+            "remuneration_type": "1",
+            "subject": "iPhone 12 Pro ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Ольга",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193818374,
+            "ad_link": "https://www.kufar.by/item/193818374",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Honor",
+                    "p": "phones_brand",
+                    "v": "14",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "30i",
+                    "p": "phones_model",
+                    "v": "4945",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "Android",
+                    "p": "phablet_phones_os",
+                    "v": "1",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "4 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "10",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка 2-х симкарт",
+                    "vl": "Да",
+                    "p": "phablet_phones_2sim",
+                    "v": true,
+                    "pu": "phs"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "8012744988",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8015024816",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8082227670",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8007797627",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8016916939",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8000182733",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8019509199",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8028032518",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165456574,
+            "list_time": "2023-05-03T09:21:59Z",
+            "message_id": "adid193818374",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "45000",
+            "price_usd": "15596",
+            "remuneration_type": "1",
+            "subject": "Телефон Huawei Honor 30i",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Алексей",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 192638923,
+            "ad_link": "https://www.kufar.by/item/192638923",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 14 Pro",
+                    "p": "phones_model",
+                    "v": "5635",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "6 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "20",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "6964690332",
+                    "yams_storage": true
+                },
+                {
+                    "id": "6998187615",
+                    "yams_storage": true
+                },
+                {
+                    "id": "6998783608",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 164541752,
+            "list_time": "2023-05-03T05:51:11Z",
+            "message_id": "adid192638923",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "300000",
+            "price_usd": "103975",
+            "remuneration_type": "1",
+            "subject": "iPhone 14pro 128 Gold",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Александр",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 153812637,
+            "ad_link": "https://www.kufar.by/item/153812637",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 7",
+                    "p": "phones_model",
+                    "v": "215",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "4.1''- 4.9''",
+                    "p": "phablet_phones_diagonal",
+                    "v": "15",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "32 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "10",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "до 2 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "1",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "Да",
+                    "p": "safedeal_enabled",
+                    "v": true,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "9476455796",
+                    "yams_storage": true
+                },
+                {
+                    "id": "9425911875",
+                    "yams_storage": true
+                },
+                {
+                    "id": "9435031187",
+                    "yams_storage": true
+                },
+                {
+                    "id": "9435627180",
+                    "yams_storage": true
+                },
+                {
+                    "id": "9478839768",
+                    "yams_storage": true
+                },
+                {
+                    "id": "9401042055",
+                    "yams_storage": true
+                },
+                {
+                    "id": "9484591410",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 133372956,
+            "list_time": "2023-05-03T03:31:15Z",
+            "message_id": "adid153812637",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "39000",
+            "price_usd": "13517",
+            "remuneration_type": "1",
+            "subject": "Iphone 7, 32 Гб",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Artem",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193788040,
+            "ad_link": "https://www.kufar.by/item/193788040",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 8 Plus",
+                    "p": "phones_model",
+                    "v": "230",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "5.5''- 5.9''",
+                    "p": "phablet_phones_diagonal",
+                    "v": "20",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "64 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "15",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "4 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "10",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка 2-х симкарт",
+                    "vl": "Да",
+                    "p": "phablet_phones_2sim",
+                    "v": true,
+                    "pu": "phs"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "8039121371",
+                    "yams_storage": true
+                },
+                {
+                    "id": "8047644690",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165432807,
+            "list_time": "2023-05-03T01:11:16Z",
+            "message_id": "adid193788040",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "40000",
+            "price_usd": "13863",
+            "remuneration_type": "1",
+            "subject": "2 iPhone 8 Plus ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Егор",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 190330340,
+            "ad_link": "https://www.kufar.by/item/190330340",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "IPhone XR",
+                    "p": "phones_model",
+                    "v": "245",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "64 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "15",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "Да",
+                    "p": "safedeal_enabled",
+                    "v": true,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "Да",
+                    "p": "possible_exchange",
+                    "v": true,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "4993325673",
+                    "yams_storage": true
+                },
+                {
+                    "id": "4901848992",
+                    "yams_storage": true
+                },
+                {
+                    "id": "4918895630",
+                    "yams_storage": true
+                },
+                {
+                    "id": "4910372311",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 162908274,
+            "list_time": "2023-05-02T23:53:50Z",
+            "message_id": "adid190330340",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "70000",
+            "price_usd": "24261",
+            "remuneration_type": "1",
+            "subject": "iPhone XR 64gb",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
                     "v": "Кирилл",
                     "pu": "nme"
                 }
@@ -163,430 +1924,6 @@
             "price_usd": "25301",
             "remuneration_type": "1",
             "subject": "iPhone XR 64 GB",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Карина",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193783207,
-            "ad_link": "https://www.kufar.by/item/193783207",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Товары от Куфар Маркета",
-                    "vl": "-",
-                    "p": "b2c_availability",
-                    "v": false,
-                    "pu": "b2c"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "-",
-                    "p": "possible_exchange",
-                    "v": false,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7905642661",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165430275,
-            "list_time": "2023-05-02T20:58:44Z",
-            "message_id": "adid193783207",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "1000",
-            "price_usd": "347",
-            "remuneration_type": "1",
-            "subject": "Чехол",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Карина",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193783136,
-            "ad_link": "https://www.kufar.by/item/193783136",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Товары от Куфар Маркета",
-                    "vl": "-",
-                    "p": "b2c_availability",
-                    "v": false,
-                    "pu": "b2c"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "-",
-                    "p": "possible_exchange",
-                    "v": false,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7910977727",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165430202,
-            "list_time": "2023-05-02T20:56:30Z",
-            "message_id": "adid193783136",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "2500",
-            "price_usd": "866",
-            "remuneration_type": "1",
-            "subject": "Чехол",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Ольга",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193780778,
-            "ad_link": "https://www.kufar.by/item/193780778",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7968136355",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165428224,
-            "list_time": "2023-05-02T20:11:11Z",
-            "message_id": "adid193780778",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "500",
-            "price_usd": "173",
-            "remuneration_type": "1",
-            "subject": "Чехол для iPhone SE 2е поколение ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Станислав",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193779939,
-            "ad_link": "https://www.kufar.by/item/193779939",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7961019501",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165427446,
-            "list_time": "2023-05-02T19:57:32Z",
-            "message_id": "adid193779939",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "500",
-            "price_usd": "173",
-            "remuneration_type": "1",
-            "subject": "Чехол iPhone 11 новый",
             "type": "sell"
         },
         {
@@ -892,177 +2229,6 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "Пользователь",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193776988,
-            "ad_link": "https://www.kufar.by/item/193776988",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Xiaomi",
-                    "p": "phones_brand",
-                    "v": "43",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "Redmi Note 10",
-                    "p": "phones_model",
-                    "v": "5005",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Операционная система",
-                    "vl": "Android",
-                    "p": "phablet_phones_os",
-                    "v": "1",
-                    "pu": "pos"
-                },
-                {
-                    "pl": "Память",
-                    "vl": "64 Гб",
-                    "p": "phablet_phones_memory",
-                    "v": "15",
-                    "pu": "ppm"
-                },
-                {
-                    "pl": "Оперативная память",
-                    "vl": "4 Гб",
-                    "p": "phablet_phones_ram",
-                    "v": "10",
-                    "pu": "ppr"
-                },
-                {
-                    "pl": "Поддержка 2-х симкарт",
-                    "vl": "Да",
-                    "p": "phablet_phones_2sim",
-                    "v": true,
-                    "pu": "phs"
-                },
-                {
-                    "pl": "Поддержка NFC",
-                    "vl": "Да",
-                    "p": "phablet_phones_nfc",
-                    "v": true,
-                    "pu": "phnfc"
-                },
-                {
-                    "pl": "Сканер отпечатка пальца",
-                    "vl": "Да",
-                    "p": "phablet_phones_fingerprint",
-                    "v": true,
-                    "pu": "phfp"
-                },
-                {
-                    "pl": "Слот для карты памяти",
-                    "vl": "Да",
-                    "p": "phablet_phones_memory_slot",
-                    "v": true,
-                    "pu": "phms"
-                },
-                {
-                    "pl": "Функция беспроводной зарядки",
-                    "vl": "Да",
-                    "p": "phablet_phones_wireless_charger",
-                    "v": true,
-                    "pu": "phwc"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "Да",
-                    "p": "possible_exchange",
-                    "v": true,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7992978346",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7954334670",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165425070,
-            "list_time": "2023-05-02T19:20:59Z",
-            "message_id": "adid193776988",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "35000",
-            "price_usd": "12130",
-            "remuneration_type": "1",
-            "subject": "Xiaomi Redmi Note 10 ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
                     "v": "Дмитрий ",
                     "pu": "nme"
                 }
@@ -1225,114 +2391,6 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "Валерий",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193773462,
-            "ad_link": "https://www.kufar.by/item/193773462",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7923282227",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165422374,
-            "list_time": "2023-05-02T18:43:55Z",
-            "message_id": "adid193773462",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "300",
-            "price_usd": "104",
-            "remuneration_type": "1",
-            "subject": "Бампер для телефона IPhone 5S",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
                     "v": "Akshin",
                     "pu": "nme"
                 }
@@ -1472,266 +2530,6 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "Tereshhh",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193761854,
-            "ad_link": "https://www.kufar.by/item/193761854",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Комплектующие для телефонов",
-                    "p": "category",
-                    "v": 17020,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Товары от Куфар Маркета",
-                    "vl": "-",
-                    "p": "b2c_availability",
-                    "v": false,
-                    "pu": "b2c"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Экраны, дисплеи",
-                    "p": "phablet_parts_type",
-                    "v": "35",
-                    "pu": "phpt"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_parts_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phbr"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "-",
-                    "p": "possible_exchange",
-                    "v": false,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17020",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7909021732",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7917545051",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7966300993",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7957777674",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7974824312",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165416144,
-            "list_time": "2023-05-02T17:30:06Z",
-            "message_id": "adid193761854",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "2500",
-            "price_usd": "866",
-            "remuneration_type": "1",
-            "subject": "Экран iPhone X/Xs",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Карина",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193759369,
-            "ad_link": "https://www.kufar.by/item/193759369",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "iPhone 13 Pro",
-                    "p": "phones_model",
-                    "v": "5385",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Операционная система",
-                    "vl": "IOS",
-                    "p": "phablet_phones_os",
-                    "v": "5",
-                    "pu": "pos"
-                },
-                {
-                    "pl": "Память",
-                    "vl": "128 Гб",
-                    "p": "phablet_phones_memory",
-                    "v": "20",
-                    "pu": "ppm"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7912488397",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7902773092",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165413743,
-            "list_time": "2023-05-02T17:03:20Z",
-            "message_id": "adid193759369",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "260000",
-            "price_usd": "90112",
-            "remuneration_type": "1",
-            "subject": "IPhone 13 Pro 128gb",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
                     "v": "Евгений ",
                     "pu": "nme"
                 }
@@ -1857,321 +2655,6 @@
             "price_usd": "14557",
             "remuneration_type": "1",
             "subject": "IPhone 8 ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Максим",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193757033,
-            "ad_link": "https://www.kufar.by/item/193757033",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "Да",
-                    "p": "possible_exchange",
-                    "v": true,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "8086729401",
-                    "yams_storage": true
-                },
-                {
-                    "id": "8095252720",
-                    "yams_storage": true
-                },
-                {
-                    "id": "8096340562",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165411582,
-            "list_time": "2023-05-02T16:37:40Z",
-            "message_id": "adid193757033",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "6000",
-            "price_usd": "2080",
-            "remuneration_type": "1",
-            "subject": "Чехол айфон iPhone 12 силиконовый черный ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Максим",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193752881,
-            "ad_link": "https://www.kufar.by/item/193752881",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7956425886",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165407705,
-            "list_time": "2023-05-02T15:49:25Z",
-            "message_id": "adid193752881",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "800",
-            "price_usd": "277",
-            "remuneration_type": "1",
-            "subject": "Чехол силиконовый  прозрачный айфон iPhone 12",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Александр",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193752811,
-            "ad_link": "https://www.kufar.by/item/193752811",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Комплектующие для телефонов",
-                    "p": "category",
-                    "v": 17020,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Телефоны на запчасти",
-                    "p": "phablet_parts_type",
-                    "v": "45",
-                    "pu": "phpt"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_parts_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phbr"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17020",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7960701981",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7952178662",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165407646,
-            "list_time": "2023-05-02T15:48:33Z",
-            "message_id": "adid193752811",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "23000",
-            "price_usd": "7971",
-            "remuneration_type": "1",
-            "subject": "iPhone 11pro на запчасти",
             "type": "sell"
         },
         {
@@ -2447,551 +2930,6 @@
             "price_usd": "0",
             "remuneration_type": "1",
             "subject": " Xiaomi redmi not 8(срочно/обмен)",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Владислав",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193746893,
-            "ad_link": "https://www.kufar.by/item/193746893",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Умные часы и фитнес-браслеты",
-                    "p": "category",
-                    "v": 17090,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Умные часы",
-                    "p": "phablet_smart_watches_type",
-                    "v": "5",
-                    "pu": "phwt"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Honor",
-                    "p": "phablet_smart_watches_brand",
-                    "v": "35",
-                    "pu": "phswbr"
-                },
-                {
-                    "pl": "Взаимодействие с Android",
-                    "vl": "Да",
-                    "p": "phablet_smart_watches_android_support",
-                    "v": true,
-                    "pu": "phwas"
-                },
-                {
-                    "pl": "Влагозащита",
-                    "vl": "Да",
-                    "p": "phablet_smart_watches_water_resistance",
-                    "v": true,
-                    "pu": "phwr"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "Да",
-                    "p": "possible_exchange",
-                    "v": true,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17090",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7942523183",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7994750939",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7951046502",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7903274258",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7933999864",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7968093140",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7959569821",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7933073908",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165403100,
-            "list_time": "2023-05-02T14:51:32Z",
-            "message_id": "adid193746893",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "35000",
-            "price_usd": "12130",
-            "remuneration_type": "1",
-            "subject": "СМАРТ ЧАСЫ обмен на ноут или Нэт бук.",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Адрес торговой точки",
-                    "vl": "",
-                    "p": "shop_address",
-                    "v": "г. Гомель, ул. Троллейбусная, 6",
-                    "pu": "sa"
-                },
-                {
-                    "pl": "УНП",
-                    "vl": "",
-                    "p": "vat_number",
-                    "v": "192821149",
-                    "pu": "vn"
-                },
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Гомельский филиал государственного предприятия ''БелЮрОбеспечение''",
-                    "pu": "nme"
-                },
-                {
-                    "pl": "Контактное лицо",
-                    "vl": "",
-                    "p": "contact_person",
-                    "v": "Гардеенко Сергей Александрович",
-                    "pu": "cp"
-                },
-                {
-                    "pl": "Юридический адрес/Адрес регистрации",
-                    "vl": "",
-                    "p": "company_address",
-                    "v": "246007, г. Гомель, ул. Троллейбусная, 6",
-                    "pu": "ca"
-                },
-                {
-                    "pl": "Ссылка на интернет-магазин",
-                    "vl": "",
-                    "p": "web_shop_link",
-                    "v": "https://e-auction.by/",
-                    "pu": "wsl"
-                }
-            ],
-            "ad_id": 193312804,
-            "ad_link": "https://www.kufar.by/item/193312804",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "iPhone 11",
-                    "p": "phones_model",
-                    "v": "260",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Операционная система",
-                    "vl": "IOS",
-                    "p": "phablet_phones_os",
-                    "v": "5",
-                    "pu": "pos"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": true,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7511387309",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7519910628",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7953638762",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165065434,
-            "list_time": "2023-05-02T14:29:44Z",
-            "message_id": "adid193312804",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "50000",
-            "price_usd": "17329",
-            "remuneration_type": "1",
-            "subject": "Смартфон APPLE IPHONE 11 (PRODUCT)RED",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Олег",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193742737,
-            "ad_link": "https://www.kufar.by/item/193742737",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7926056049",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165399176,
-            "list_time": "2023-05-02T14:08:21Z",
-            "message_id": "adid193742737",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "0",
-            "price_usd": "0",
-            "remuneration_type": "1",
-            "subject": "Чехол на iPhone 12",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Анастасия ",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193741511,
-            "ad_link": "https://www.kufar.by/item/193741511",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Товары от Куфар Маркета",
-                    "vl": "-",
-                    "p": "b2c_availability",
-                    "v": false,
-                    "pu": "b2c"
-                },
-                {
-                    "pl": "Кнопочный телефон",
-                    "vl": "-",
-                    "p": "phablet_phones_featurephone",
-                    "v": false,
-                    "pu": "phf"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "Другая",
-                    "p": "phones_model",
-                    "v": "275",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Операционная система",
-                    "vl": "IOS",
-                    "p": "phablet_phones_os",
-                    "v": "5",
-                    "pu": "pos"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "-",
-                    "p": "possible_exchange",
-                    "v": false,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7987646467",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7996169786",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7953553191",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7936506553",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165398332,
-            "list_time": "2023-05-02T13:58:48Z",
-            "message_id": "adid193741511",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "1500",
-            "price_usd": "520",
-            "remuneration_type": "1",
-            "subject": "iPhone 4s",
             "type": "sell"
         },
         {
@@ -3605,112 +3543,6 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "foX&Y",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 189874278,
-            "ad_link": "https://www.kufar.by/item/189874278",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "4640717501",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4609604190",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4646781575",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4686730637",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 162600181,
-            "list_time": "2023-05-02T11:06:40Z",
-            "message_id": "adid189874278",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "300",
-            "price_usd": "104",
-            "remuneration_type": "1",
-            "subject": "Чехол на iPhone 11 pro",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
                     "v": "Александр ",
                     "pu": "nme"
                 }
@@ -4024,316 +3856,6 @@
             "price_usd": "65851",
             "remuneration_type": "1",
             "subject": "iPhone 12 Pro",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Елена",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193714803,
-            "ad_link": "https://www.kufar.by/item/193714803",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Пленки, стекла",
-                    "p": "phablet_accessories_type",
-                    "v": "40",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7949388534",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7940865215",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165374569,
-            "list_time": "2023-05-02T09:31:27Z",
-            "message_id": "adid193714803",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "500",
-            "price_usd": "173",
-            "remuneration_type": "1",
-            "subject": "Стекло на iPhone X/R 11 черное",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Елена",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193714617,
-            "ad_link": "https://www.kufar.by/item/193714617",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Чехлы, кейсы",
-                    "p": "phablet_accessories_type",
-                    "v": "50",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7940940488",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7920526180",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165374394,
-            "list_time": "2023-05-02T09:28:59Z",
-            "message_id": "adid193714617",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "500",
-            "price_usd": "173",
-            "remuneration_type": "1",
-            "subject": "Чехол на айфон 11 ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Артурчик",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193710826,
-            "ad_link": "https://www.kufar.by/item/193710826",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Комплектующие для телефонов",
-                    "p": "category",
-                    "v": 17020,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Динамики",
-                    "p": "phablet_parts_type",
-                    "v": "5",
-                    "pu": "phpt"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_parts_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phbr"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17020",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7930971535",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165371331,
-            "list_time": "2023-05-02T08:51:55Z",
-            "message_id": "adid193710826",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "700",
-            "price_usd": "243",
-            "remuneration_type": "1",
-            "subject": "Динамик IPhone ",
             "type": "sell"
         },
         {
@@ -4657,118 +4179,6 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "Станислав",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 193705879,
-            "ad_link": "https://www.kufar.by/item/193705879",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Зарядные устройства",
-                    "p": "phablet_accessories_type",
-                    "v": "15",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "7993205390",
-                    "yams_storage": true
-                },
-                {
-                    "id": "7919863189",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 165366748,
-            "list_time": "2023-05-02T08:04:58Z",
-            "message_id": "adid193705879",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "2000",
-            "price_usd": "693",
-            "remuneration_type": "1",
-            "subject": "Новый кабель Lightning to type-c",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
                     "v": "Маргарита",
                     "pu": "nme"
                 }
@@ -4868,148 +4278,6 @@
             "price_usd": "1040",
             "remuneration_type": "1",
             "subject": "Айфон 5 s",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Владимир",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 188674003,
-            "ad_link": "https://www.kufar.by/item/188674003",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "iPhone 12 Pro Max",
-                    "p": "phones_model",
-                    "v": "3750",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Операционная система",
-                    "vl": "IOS",
-                    "p": "phablet_phones_os",
-                    "v": "5",
-                    "pu": "pos"
-                },
-                {
-                    "pl": "Память",
-                    "vl": "128 Гб",
-                    "p": "phablet_phones_memory",
-                    "v": "20",
-                    "pu": "ppm"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "3855664633",
-                    "yams_storage": true
-                },
-                {
-                    "id": "3847141314",
-                    "yams_storage": true
-                },
-                {
-                    "id": "3830094676",
-                    "yams_storage": true
-                },
-                {
-                    "id": "3838617995",
-                    "yams_storage": true
-                },
-                {
-                    "id": "3821571357",
-                    "yams_storage": true
-                },
-                {
-                    "id": "3813048038",
-                    "yams_storage": true
-                },
-                {
-                    "id": "3864187952",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 161796652,
-            "list_time": "2023-05-02T07:49:00Z",
-            "message_id": "adid188674003",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "190000",
-            "price_usd": "65851",
-            "remuneration_type": "1",
-            "subject": "IPhone 12 Pro Max 128gb",
             "type": "sell"
         },
         {
@@ -5133,9 +4401,9 @@
                 },
                 {
                     "pl": "Возможен обмен",
-                    "vl": "Да",
+                    "vl": "-",
                     "p": "possible_exchange",
-                    "v": true,
+                    "v": false,
                     "pu": "pse"
                 }
             ],
@@ -5171,8 +4439,8 @@
                 "ribbons": null
             },
             "phone_hidden": false,
-            "price_byn": "45000",
-            "price_usd": "15596",
+            "price_byn": "43000",
+            "price_usd": "14903",
             "remuneration_type": "1",
             "subject": "Apple iPhone 8 Silver",
             "type": "sell"
@@ -5441,211 +4709,6 @@
             "account_id": 0,
             "account_parameters": [
                 {
-                    "pl": "Наименование регистрирующего органа",
-                    "vl": "",
-                    "p": "egr_authority",
-                    "v": "Администрация железнодорожного района города Гомеля",
-                    "pu": "ea"
-                },
-                {
-                    "pl": "Дата",
-                    "vl": "",
-                    "p": "egr_date",
-                    "v": "09.02.23",
-                    "pu": "ed"
-                },
-                {
-                    "pl": "Номер",
-                    "vl": "",
-                    "p": "commercial_register_number",
-                    "v": "0858910",
-                    "pu": "crn"
-                },
-                {
-                    "pl": "Ссылка на интернет-магазин",
-                    "vl": "",
-                    "p": "web_shop_link",
-                    "v": "https://www.instagram.com/store_gomel",
-                    "pu": "wsl"
-                },
-                {
-                    "pl": "Юридический адрес/Адрес регистрации",
-                    "vl": "",
-                    "p": "company_address",
-                    "v": "г.Гомель Крестьянская 25",
-                    "pu": "ca"
-                },
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "MobiHome ИП Давыдовский",
-                    "pu": "nme"
-                },
-                {
-                    "pl": "Адрес торговой точки",
-                    "vl": "",
-                    "p": "shop_address",
-                    "v": "г.Гомель, проспект Ленина 25",
-                    "pu": "sa"
-                },
-                {
-                    "pl": "УНП",
-                    "vl": "",
-                    "p": "vat_number",
-                    "v": "491594409",
-                    "pu": "vn"
-                }
-            ],
-            "ad_id": 186164626,
-            "ad_link": "https://www.kufar.by/item/186164626",
-            "ad_parameters": [
-                {
-                    "pl": "Товары с доставкой в регионы",
-                    "vl": "Да",
-                    "p": "multiregion_enabled",
-                    "v": true,
-                    "pu": "mle"
-                },
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Аксессуары для телефонов",
-                    "p": "category",
-                    "v": 17030,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Компания",
-                    "vl": "",
-                    "p": "trademark",
-                    "v": "MobiHome",
-                    "pu": "trd"
-                },
-                {
-                    "pl": "Товары с доставкой в регионы",
-                    "vl": [
-                        "Вся Беларусь",
-                        "Брестская",
-                        "Гомельская",
-                        "Гродненская",
-                        "Могилевская",
-                        "Минская",
-                        "Витебская",
-                        "Минск"
-                    ],
-                    "p": "multiregion_regions",
-                    "v": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7
-                    ],
-                    "pu": "mlr"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Тип",
-                    "vl": "Пленки, стекла",
-                    "p": "phablet_accessories_type",
-                    "v": "40",
-                    "pu": "phat"
-                },
-                {
-                    "pl": "Совместимые устройства",
-                    "vl": [
-                        "Apple"
-                    ],
-                    "p": "phablet_accessories_brand",
-                    "v": [
-                        1
-                    ],
-                    "pu": "phab"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Новое",
-                    "p": "condition",
-                    "v": "2",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Доставка от продавца",
-                    "vl": "Да",
-                    "p": "delivery_pro",
-                    "v": true,
-                    "pu": "dlpr"
-                }
-            ],
-            "body": null,
-            "category": "17030",
-            "company_ad": true,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "1949112787",
-                    "yams_storage": true
-                },
-                {
-                    "id": "1955952271",
-                    "yams_storage": true
-                },
-                {
-                    "id": "1976962572",
-                    "yams_storage": true
-                },
-                {
-                    "id": "1957636106",
-                    "yams_storage": true
-                },
-                {
-                    "id": "2685836521",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 160175897,
-            "list_time": "2023-05-02T05:00:11Z",
-            "message_id": "adid186164626",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "699",
-            "price_usd": "242",
-            "remuneration_type": "1",
-            "subject": "КАЧЕСТВЕННОЕ 6D ЗАЩИТНОЕ СТЕКЛО IPHONE 6,6S,7,7+,8,8+,X,XS,XS Max,SE 2020,SE 2022,11,11pro,12mini,12",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
@@ -5756,16 +4819,16 @@
                 },
                 {
                     "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
+                    "vl": "Да",
                     "p": "delivery_enabled",
-                    "v": false,
+                    "v": true,
                     "pu": "dle"
                 },
                 {
                     "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
+                    "vl": "Да",
                     "p": "safedeal_enabled",
-                    "v": false,
+                    "v": true,
                     "pu": "sde"
                 },
                 {
@@ -5796,10 +4859,1580 @@
                 "ribbons": null
             },
             "phone_hidden": false,
-            "price_byn": "110000",
-            "price_usd": "38124",
+            "price_byn": "100000",
+            "price_usd": "34658",
             "remuneration_type": "1",
             "subject": "Redmi note 12 pro 5G",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Дима",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193679320,
+            "ad_link": "https://www.kufar.by/item/193679320",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "5.5''- 5.9''",
+                    "p": "phablet_phones_diagonal",
+                    "v": "20",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "32 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "10",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "3 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "5",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7826344942",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7825257100",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7833780419",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7817821623",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165349490,
+            "list_time": "2023-05-01T21:27:52Z",
+            "message_id": "adid193679320",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "13000",
+            "price_usd": "4506",
+            "remuneration_type": "1",
+            "subject": "iPhone 6s 32гб",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Margarita",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 187153766,
+            "ad_link": "https://www.kufar.by/item/187153766",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7838781415",
+                    "yams_storage": true
+                },
+                {
+                    "id": "2713139414",
+                    "yams_storage": true
+                },
+                {
+                    "id": "2704616095",
+                    "yams_storage": true
+                },
+                {
+                    "id": "2787569457",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 160798456,
+            "list_time": "2023-05-01T19:50:44Z",
+            "message_id": "adid187153766",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "270000",
+            "price_usd": "93578",
+            "remuneration_type": "1",
+            "subject": "iPhone 13 Pro Max 128GB Sierra Blue",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Влад ",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193667462,
+            "ad_link": "https://www.kufar.by/item/193667462",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 6",
+                    "p": "phones_model",
+                    "v": "200",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "16 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "5",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7889835758",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7898359077",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165341261,
+            "list_time": "2023-05-01T18:51:06Z",
+            "message_id": "adid193667462",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "0",
+            "price_usd": "0",
+            "remuneration_type": "1",
+            "subject": "Айфон 6",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Без имени",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193666180,
+            "ad_link": "https://www.kufar.by/item/193666180",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 8 Plus",
+                    "p": "phones_model",
+                    "v": "230",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "5.5''- 5.9''",
+                    "p": "phablet_phones_diagonal",
+                    "v": "20",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "64 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "15",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "3 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "5",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "Да",
+                    "p": "safedeal_enabled",
+                    "v": true,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7834975531",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7844690836",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7873112892",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7871920906",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7881636211",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165340389,
+            "list_time": "2023-05-01T18:40:34Z",
+            "message_id": "adid193666180",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "60000",
+            "price_usd": "20795",
+            "remuneration_type": "1",
+            "subject": "iPhone 8plus",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Людмила",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193653811,
+            "ad_link": "https://www.kufar.by/item/193653811",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone SE",
+                    "p": "phones_model",
+                    "v": "235",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "64 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "15",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Слот для карты памяти",
+                    "vl": "Да",
+                    "p": "phablet_phones_memory_slot",
+                    "v": true,
+                    "pu": "phms"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7805901824",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7814425143",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7888855186",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7897378505",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7816213122",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7824736441",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165333704,
+            "list_time": "2023-05-01T17:23:05Z",
+            "message_id": "adid193653811",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "55000",
+            "price_usd": "19062",
+            "remuneration_type": "1",
+            "subject": "IPhone SE 2020 64gb white",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "fck12",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193653182,
+            "ad_link": "https://www.kufar.by/item/193653182",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone X",
+                    "p": "phones_model",
+                    "v": "240",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "64 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "15",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "Да",
+                    "p": "possible_exchange",
+                    "v": true,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7810120177",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165333118,
+            "list_time": "2023-05-01T17:16:12Z",
+            "message_id": "adid193653182",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "40000",
+            "price_usd": "13863",
+            "remuneration_type": "1",
+            "subject": "iPhone 10/X",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Дарья",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193633082,
+            "ad_link": "https://www.kufar.by/item/193633082",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 11",
+                    "p": "phones_model",
+                    "v": "260",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7884758569",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7869129736",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7896239173",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7802401200",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165314833,
+            "list_time": "2023-05-01T14:08:02Z",
+            "message_id": "adid193633082",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "120000",
+            "price_usd": "41590",
+            "remuneration_type": "1",
+            "subject": "iPhone 11 Purple 128 GB",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "no_name",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193625649,
+            "ad_link": "https://www.kufar.by/item/193625649",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Товары от Куфар Маркета",
+                    "vl": "-",
+                    "p": "b2c_availability",
+                    "v": false,
+                    "pu": "b2c"
+                },
+                {
+                    "pl": "Кнопочный телефон",
+                    "vl": "-",
+                    "p": "phablet_phones_featurephone",
+                    "v": false,
+                    "pu": "phf"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 7 Plus",
+                    "p": "phones_model",
+                    "v": "220",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "32 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "10",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "до 2 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "1",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "-",
+                    "p": "possible_exchange",
+                    "v": false,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7916217046",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7957745799",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165310675,
+            "list_time": "2023-05-01T13:27:36Z",
+            "message_id": "adid193625649",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "11000",
+            "price_usd": "3812",
+            "remuneration_type": "1",
+            "subject": "Айфон 7+ 32",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Антон ",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193626871,
+            "ad_link": "https://www.kufar.by/item/193626871",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 11",
+                    "p": "phones_model",
+                    "v": "260",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "-",
+                    "p": "phablet_phones_fingerprint",
+                    "v": false,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Слот для карты памяти",
+                    "vl": "Да",
+                    "p": "phablet_phones_memory_slot",
+                    "v": true,
+                    "pu": "phms"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "Да",
+                    "p": "safedeal_enabled",
+                    "v": true,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "Да",
+                    "p": "possible_exchange",
+                    "v": true,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7810874010",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7818205343",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7826728662",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7835251981",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7819397329",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7827920648",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7844967286",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7853490605",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7870537243",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165310239,
+            "list_time": "2023-05-01T13:23:25Z",
+            "message_id": "adid193626871",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "100000",
+            "price_usd": "34658",
+            "remuneration_type": "1",
+            "subject": "iPhone 11/128",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Дмитрий",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193621247,
+            "ad_link": "https://www.kufar.by/item/193621247",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 14 Pro",
+                    "p": "phones_model",
+                    "v": "5635",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "256 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "25",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "Да",
+                    "p": "possible_exchange",
+                    "v": true,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7877053997",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7898972723",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7865967289",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165304839,
+            "list_time": "2023-05-01T12:32:49Z",
+            "message_id": "adid193621247",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "320000",
+            "price_usd": "110907",
+            "remuneration_type": "1",
+            "subject": "Iphone 14 pro deep purple 256gb",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Kristina",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 193620177,
+            "ad_link": "https://www.kufar.by/item/193620177",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "7846496468",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7889113063",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7824294181",
+                    "yams_storage": true
+                },
+                {
+                    "id": "7880589744",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 165303833,
+            "list_time": "2023-05-01T12:23:36Z",
+            "message_id": "adid193620177",
+            "paid_services": {
+                "halva": true,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": false,
+            "price_byn": "6000",
+            "price_usd": "2080",
+            "remuneration_type": "1",
+            "subject": "IPhone 4",
             "type": "sell"
         }
     ],
@@ -5813,7 +6446,7 @@
             {
                 "label": "prev",
                 "num": 6,
-                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODMwNjMwNzkwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkzNzg0MTI4fV0sImYiOmZhbHNlfQ=="
+                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODMxMTIzMDcwMDB9LHsibiI6ImFkX2lkIiwidiI6MTg4OTc3MDc2fV0sImYiOmZhbHNlfQ=="
             },
             {
                 "label": "self",
@@ -5823,14 +6456,14 @@
             {
                 "label": "next",
                 "num": 8,
-                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODI5NzczNTcwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkzNjc5NTkxfV0sImYiOnRydWV9"
+                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODI5NDM4MTYwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkzNjIwMTc3fV0sImYiOnRydWV9"
             },
             {
                 "label": "",
-                "num": 32,
+                "num": 19,
                 "token": "eyJ0IjoiYWJzIiwiZiI6ZmFsc2UsInAiOjF9"
             }
         ]
     },
-    "total": 1354
+    "total": 787
 }
