@@ -1,0 +1,8 @@
+{'ok': True, 
+'result': [{'update_id': 413019790, 'message': {'message_id': 813,
+ 'from': {'id': 5650732610, 'is_bot': False, 'first_name': 'Hask777', 'last_name': 'Django', 'language_code': 'ru'},
+   'chat': {'id': 5650732610, 'first_name': 'Hask777', 'last_name': 'Django', 'type': 'private'},
+     'date': 1683816812, 'text': 'd'}},
+       {'update_id': 413019791, 'message': {'message_id': 814, 'from': {'id': 5650732610, 'is_bot': False, 'first_name': 'Hask777', 'last_name': 'Django', 'language_code': 'ru'},
+                                             'chat': {'id': 5650732610, 'first_name': 'Hask777', 'last_name': 'Django', 'type': 'private'},
+                                               'date': 1683816906, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}}]}

@@ -7,12 +7,12 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "Dmitry",
+                    "v": "Валерий ",
                     "pu": "nme"
                 }
             ],
-            "ad_id": 190818344,
-            "ad_link": "https://www.kufar.by/item/190818344",
+            "ad_id": 190940993,
+            "ad_link": "https://www.kufar.by/item/190940993",
             "ad_parameters": [
                 {
                     "pl": "Подкатегория",
@@ -51,9 +51,9 @@
                 },
                 {
                     "pl": "Модель",
-                    "vl": "iPhone 12",
+                    "vl": "iPhone 11",
                     "p": "phones_model",
-                    "v": "3740",
+                    "v": "260",
                     "pu": "phm"
                 },
                 {
@@ -64,10 +64,316 @@
                     "pu": "pos"
                 },
                 {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
                     "pl": "Память",
                     "vl": "128 Гб",
                     "p": "phablet_phones_memory",
                     "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "Да",
+                    "p": "possible_exchange",
+                    "v": true,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "5417657801",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5493279830",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5401803149",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 163294528,
+            "list_time": "2023-04-07T07:13:07Z",
+            "message_id": "adid190940993",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "100000",
+            "price_usd": "34658",
+            "remuneration_type": "1",
+            "subject": "Телефон ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Александр",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 190890834,
+            "ad_link": "https://www.kufar.by/item/190890834",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 14 Pro Max",
+                    "p": "phones_model",
+                    "v": "5640",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "Android",
+                    "p": "phablet_phones_os",
+                    "v": "1",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "512 Гб и более",
+                    "p": "phablet_phones_memory",
+                    "v": "30",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "6 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "20",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка 2-х симкарт",
+                    "vl": "Да",
+                    "p": "phablet_phones_2sim",
+                    "v": true,
+                    "pu": "phs"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Новое",
+                    "p": "condition",
+                    "v": "2",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "5393030411",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5397098218",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5310077049",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5322668175",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5305621537",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5366505627",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 163277949,
+            "list_time": "2023-04-06T19:57:07Z",
+            "message_id": "adid190890834",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "49000",
+            "price_usd": "16983",
+            "remuneration_type": "1",
+            "subject": "Айфон 14 про мах КОПИЯ",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Продавец ",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 190885894,
+            "ad_link": "https://www.kufar.by/item/190885894",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 7",
+                    "p": "phones_model",
+                    "v": "215",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "4.1''- 4.9''",
+                    "p": "phablet_phones_diagonal",
+                    "v": "15",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "32 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "10",
                     "pu": "ppm"
                 },
                 {
@@ -78,11 +384,152 @@
                     "pu": "phfp"
                 },
                 {
-                    "pl": "Функция беспроводной зарядки",
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "-",
+                    "p": "delivery_enabled",
+                    "v": false,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
                     "vl": "Да",
-                    "p": "phablet_phones_wireless_charger",
+                    "p": "possible_exchange",
                     "v": true,
-                    "pu": "phwc"
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "5381632313",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5391839467",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5300362786",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5398678951",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5390155632",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 163273789,
+            "list_time": "2023-04-06T19:04:04Z",
+            "message_id": "adid190885894",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "0",
+            "price_usd": "0",
+            "remuneration_type": "1",
+            "subject": "iPhone 7",
+            "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Сергей",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 190866567,
+            "ad_link": "https://www.kufar.by/item/190866567",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Apple",
+                    "p": "phones_brand",
+                    "v": "5",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "iPhone 11 Pro Max",
+                    "p": "phones_model",
+                    "v": "270",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "IOS",
+                    "p": "phablet_phones_os",
+                    "v": "5",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Диагональ экрана",
+                    "vl": "6'' и более",
+                    "p": "phablet_phones_diagonal",
+                    "v": "30",
+                    "pu": "ppd"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "256 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "25",
+                    "pu": "ppm"
                 },
                 {
                     "pl": "Состояние",
@@ -105,48 +552,48 @@
             "currency": "BYR",
             "images": [
                 {
-                    "id": "5314799816",
+                    "id": "5359528040",
                     "yams_storage": true
                 },
                 {
-                    "id": "5373479351",
+                    "id": "5351004721",
                     "yams_storage": true
                 },
                 {
-                    "id": "5382002670",
+                    "id": "5307300284",
                     "yams_storage": true
                 },
                 {
-                    "id": "5390525989",
+                    "id": "5333958083",
                     "yams_storage": true
                 },
                 {
-                    "id": "5364956032",
+                    "id": "5342481402",
                     "yams_storage": true
                 },
                 {
-                    "id": "5399049308",
+                    "id": "5325434764",
                     "yams_storage": true
                 },
                 {
-                    "id": "5307572627",
+                    "id": "5640737868",
                     "yams_storage": true
                 }
             ],
-            "list_id": 163216892,
-            "list_time": "2023-04-06T08:38:53Z",
-            "message_id": "adid190818344",
+            "list_id": 163257095,
+            "list_time": "2023-04-06T15:48:11Z",
+            "message_id": "adid190866567",
             "paid_services": {
-                "halva": false,
+                "halva": true,
                 "highlight": false,
                 "polepos": false,
                 "ribbons": null
             },
             "phone_hidden": false,
-            "price_byn": "120000",
-            "price_usd": "41590",
+            "price_byn": "125000",
+            "price_usd": "43323",
             "remuneration_type": "1",
-            "subject": "iPhone 12",
+            "subject": "iPhone 11 Pro max",
             "type": "sell"
         },
         {
@@ -591,18 +1038,18 @@
                     "pu": "crde"
                 },
                 {
-                    "pl": "УНП",
-                    "vl": "",
-                    "p": "vat_number",
-                    "v": "491348366",
-                    "pu": "vn"
-                },
-                {
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
                     "v": "ИП Герман Артем Витальевич",
                     "pu": "nme"
+                },
+                {
+                    "pl": "УНП",
+                    "vl": "",
+                    "p": "vat_number",
+                    "v": "491348366",
+                    "pu": "vn"
                 }
             ],
             "ad_id": 163428679,
@@ -4862,18 +5309,18 @@
                     "pu": "wsl"
                 },
                 {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "ИП Ковалёв Е.И.",
+                    "pu": "nme"
+                },
+                {
                     "pl": "Контактное лицо",
                     "vl": "",
                     "p": "contact_person",
                     "v": "Евгений ",
                     "pu": "cp"
-                },
-                {
-                    "pl": "Адрес торговой точки",
-                    "vl": "",
-                    "p": "shop_address",
-                    "v": "Победы пр, 29, Гомель, Гомельская область, Бульвар",
-                    "pu": "sa"
                 },
                 {
                     "pl": "УНП",
@@ -4890,11 +5337,11 @@
                     "pu": "ca"
                 },
                 {
-                    "pl": "Имя",
+                    "pl": "Адрес торговой точки",
                     "vl": "",
-                    "p": "name",
-                    "v": "ИП Ковалёв Е.И.",
-                    "pu": "nme"
+                    "p": "shop_address",
+                    "v": "Победы пр, 29, Гомель, Гомельская область, Бульвар",
+                    "pu": "sa"
                 }
             ],
             "ad_id": 190241862,
@@ -5835,490 +6282,6 @@
             "remuneration_type": "1",
             "subject": "iPhone 11 Pro 64gb",
             "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Адрес торговой точки",
-                    "vl": "",
-                    "p": "shop_address",
-                    "v": "Победы пр, 29, Гомель, Гомельская область, Бульвар",
-                    "pu": "sa"
-                },
-                {
-                    "pl": "Юридический адрес/Адрес регистрации",
-                    "vl": "",
-                    "p": "company_address",
-                    "v": "г. Гомель, пр-т Космонавтов д. 30, кв. 72",
-                    "pu": "ca"
-                },
-                {
-                    "pl": "Ссылка на интернет-магазин",
-                    "vl": "",
-                    "p": "web_shop_link",
-                    "v": "https://applegomel.by",
-                    "pu": "wsl"
-                },
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "ИП Ковалёв Е.И.",
-                    "pu": "nme"
-                },
-                {
-                    "pl": "УНП",
-                    "vl": "",
-                    "p": "vat_number",
-                    "v": "491592595",
-                    "pu": "vn"
-                }
-            ],
-            "ad_id": 189289383,
-            "ad_link": "https://www.kufar.by/item/189289383",
-            "ad_parameters": [
-                {
-                    "pl": "Товары с доставкой в регионы",
-                    "vl": [
-                        "Вся Беларусь",
-                        "Брестская",
-                        "Гомельская",
-                        "Гродненская",
-                        "Могилевская",
-                        "Минская",
-                        "Витебская",
-                        "Минск"
-                    ],
-                    "p": "multiregion_regions",
-                    "v": [
-                        0,
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7
-                    ],
-                    "pu": "mlr"
-                },
-                {
-                    "pl": "Товары с доставкой в регионы",
-                    "vl": "Да",
-                    "p": "multiregion_enabled",
-                    "v": true,
-                    "pu": "mle"
-                },
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "iPhone 13 Pro",
-                    "p": "phones_model",
-                    "v": "5385",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Диагональ экрана",
-                    "vl": "6'' и более",
-                    "p": "phablet_phones_diagonal",
-                    "v": "30",
-                    "pu": "ppd"
-                },
-                {
-                    "pl": "Память",
-                    "vl": "128 Гб",
-                    "p": "phablet_phones_memory",
-                    "v": "20",
-                    "pu": "ppm"
-                },
-                {
-                    "pl": "Поддержка NFC",
-                    "vl": "Да",
-                    "p": "phablet_phones_nfc",
-                    "v": true,
-                    "pu": "phnfc"
-                },
-                {
-                    "pl": "Функция беспроводной зарядки",
-                    "vl": "Да",
-                    "p": "phablet_phones_wireless_charger",
-                    "v": true,
-                    "pu": "phwc"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "-",
-                    "p": "delivery_enabled",
-                    "v": false,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "-",
-                    "p": "safedeal_enabled",
-                    "v": false,
-                    "pu": "sde"
-                },
-                {
-                    "pl": "Доставка от продавца",
-                    "vl": "Да",
-                    "p": "delivery_pro",
-                    "v": true,
-                    "pu": "dlpr"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": true,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "4290545157",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4213835286",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4273498519",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4256451881",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 162211478,
-            "list_time": "2023-04-02T07:54:16Z",
-            "message_id": "adid189289383",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "252000",
-            "price_usd": "87339",
-            "remuneration_type": "1",
-            "subject": "iPhone 13 Pro 128 Gb Starlight ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "  Ирина",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 190237082,
-            "ad_link": "https://www.kufar.by/item/190237082",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Xiaomi",
-                    "p": "phones_brand",
-                    "v": "43",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "Mi 13 Lite",
-                    "p": "phones_model",
-                    "v": "5874",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Операционная система",
-                    "vl": "Android",
-                    "p": "phablet_phones_os",
-                    "v": "1",
-                    "pu": "pos"
-                },
-                {
-                    "pl": "Память",
-                    "vl": "256 Гб",
-                    "p": "phablet_phones_memory",
-                    "v": "25",
-                    "pu": "ppm"
-                },
-                {
-                    "pl": "Поддержка 2-х симкарт",
-                    "vl": "Да",
-                    "p": "phablet_phones_2sim",
-                    "v": true,
-                    "pu": "phs"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "4903416545",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4917095513",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4994893226",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4908572194",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 162825570,
-            "list_time": "2023-04-02T07:04:52Z",
-            "message_id": "adid190237082",
-            "paid_services": {
-                "halva": false,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "140000",
-            "price_usd": "48522",
-            "remuneration_type": "1",
-            "subject": "Телефон Xiaomi 13 Lite",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": "Наталья",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 190234050,
-            "ad_link": "https://www.kufar.by/item/190234050",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "iPhone 12 Pro",
-                    "p": "phones_model",
-                    "v": "3745",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Диагональ экрана",
-                    "vl": "6'' и более",
-                    "p": "phablet_phones_diagonal",
-                    "v": "30",
-                    "pu": "ppd"
-                },
-                {
-                    "pl": "Память",
-                    "vl": "128 Гб",
-                    "p": "phablet_phones_memory",
-                    "v": "20",
-                    "pu": "ppm"
-                },
-                {
-                    "pl": "Оперативная память",
-                    "vl": "6 Гб",
-                    "p": "phablet_phones_ram",
-                    "v": "20",
-                    "pu": "ppr"
-                },
-                {
-                    "pl": "Поддержка NFC",
-                    "vl": "Да",
-                    "p": "phablet_phones_nfc",
-                    "v": true,
-                    "pu": "phnfc"
-                },
-                {
-                    "pl": "Функция беспроводной зарядки",
-                    "vl": "Да",
-                    "p": "phablet_phones_wireless_charger",
-                    "v": true,
-                    "pu": "phwc"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Товары с Куфар Оплатой",
-                    "vl": "Да",
-                    "p": "safedeal_enabled",
-                    "v": true,
-                    "pu": "sde"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "4919370192",
-                    "yams_storage": true
-                },
-                {
-                    "id": "4992712393",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 162822745,
-            "list_time": "2023-04-02T06:27:08Z",
-            "message_id": "adid190234050",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": false,
-            "price_byn": "170000",
-            "price_usd": "58919",
-            "remuneration_type": "1",
-            "subject": "IPhone 12pro 128gb Pacific Blue",
-            "type": "sell"
         }
     ],
     "pagination": {
@@ -6331,7 +6294,7 @@
             {
                 "label": "prev",
                 "num": 14,
-                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODA3NzAzMzMwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkwODE4MzQ0fV0sImYiOmZhbHNlfQ=="
+                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODA4NTE1ODcwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkwOTQwOTkzfV0sImYiOmZhbHNlfQ=="
             },
             {
                 "label": "self",
@@ -6350,5 +6313,5 @@
             }
         ]
     },
-    "total": 786
+    "total": 795
 }

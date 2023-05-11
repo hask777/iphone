@@ -1,0 +1,53 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 413019809,
+            "callback_query": {
+                "id": "5822967686539484076",
+                "from": {
+                    "id": 5650732610,
+                    "is_bot": false,
+                    "first_name": "Hask777",
+                    "last_name": "Django",
+                    "language_code": "ru"
+                },
+                "message": {
+                    "message_id": 831,
+                    "from": {
+                        "id": 6245550572,
+                        "is_bot": true,
+                        "first_name": "iphoneKufar",
+                        "username": "Hask777Bot"
+                    },
+                    "chat": {
+                        "id": 5650732610,
+                        "first_name": "Hask777",
+                        "last_name": "Django",
+                        "type": "private"
+                    },
+                    "date": 1683817923,
+                    "text": "Начать поиск",
+                    "reply_markup": {
+                        "inline_keyboard": [
+                            [
+                                {
+                                    "text": "Все айфоны за сегодня",
+                                    "callback_data": "1"
+                                }
+                            ],
+                            [
+                                {
+                                    "text": "Новые айфоны",
+                                    "callback_data": "2"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                "chat_instance": "-4806945011381860149",
+                "data": "1"
+            }
+        }
+    ]
+}

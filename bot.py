@@ -5,6 +5,8 @@ from utils import get_inline_keyboard, get_back_keyboard
 from env import *
 import time
 from today import get_all_today_iphones, get_last_iphones
+import schedule
+
 
 arr = []
 main_dict = {}
@@ -13,6 +15,9 @@ def get_updates():
     url = base_url+'getUpdates'
     getUp = requests.get(url).json()
     print(getUp)
+
+    with open('update.json', 'w', encoding='utf-8') as f:
+        json.dump(getUp, f, ensure_ascii=False, indent=4)
 
     try:
         update = getUp['result'][-2]['update_id']
@@ -34,6 +39,7 @@ def get_updates():
 
 
     try:
+        
         start_keyboard()
     except:
         return
@@ -41,10 +47,14 @@ def get_updates():
     try:
         if getUp['result'][0]['callback_query']['data'] == '1':
             get_all(update)
-            start_keyboard()
+            # start_keyboard()
         else:
             # getUp['result'][0]['callback_query']['data'] == '1':
-            listen_iphones(update)
+            schedule.every(1).minutes.do(start_listen) # seconds minutes hour day.at("hours:minutes")
+
+            while True:
+                schedule.run_pending()
+                        
     except:
         return
 
@@ -67,8 +77,8 @@ def start_keyboard():
 
     
 def get_all(update):
-    print('work')
-    print(update)
+    # print('work')
+    # print(update)
 
     iphones = get_all_today_iphones()
 
@@ -91,17 +101,23 @@ def get_all(update):
                         }
                 
             send_items = requests.get(send_message_url, params=params).json()
-
-            
-    except:
-        
+  
+    except:  
         return
     
 
-def listen_iphones(update):
+def listen_iphones():
     print('listen')
 
+    last_iphones_ids = []
+
     last_iphones = get_last_iphones()
+
+    # for iphone_id in last_iphones:
+    #     print(iphone_id['id'])
+    #     last_iphones_ids.append(iphone['id'])
+
+    # if iphone_id['id'] not in last_iphones_ids:
 
     try:
 
@@ -128,7 +144,8 @@ def listen_iphones(update):
         return
 
 
-
+def start_listen():
+    listen_iphones()
 
 
 def main():
