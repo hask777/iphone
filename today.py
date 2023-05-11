@@ -7,7 +7,7 @@ from os.path import exists
 
 today = date.today()
 
-def check_today_iphones():
+def listen_today_iphones():
     global today 
 
     today_iphone_list = []
@@ -98,7 +98,18 @@ def check_today_iphones():
         # print("New Iphone")
         
 
-   
-
-
 # check_today_iphones()
+
+def get_all_today_iphones():
+    
+    with open ('new_today_iphones.json', 'r', encoding='utf-8') as f:
+        new_today_iphones = json.load(f)
+
+    return new_today_iphones
+
+def get_last_iphones():
+
+    with open ('find_today_iphones.json', 'r', encoding='utf-8') as f:
+        last_iphones = json.load(f)
+
+    return last_iphones

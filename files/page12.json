@@ -2610,114 +2610,6 @@
                     "pl": "Имя",
                     "vl": "",
                     "p": "name",
-                    "v": "Наталья ",
-                    "pu": "nme"
-                }
-            ],
-            "ad_id": 183930337,
-            "ad_link": "https://www.kufar.by/item/183930337",
-            "ad_parameters": [
-                {
-                    "pl": "Подкатегория",
-                    "vl": "Мобильные телефоны",
-                    "p": "category",
-                    "v": 17010,
-                    "pu": "cat"
-                },
-                {
-                    "pl": "Область",
-                    "vl": "Гомельская",
-                    "p": "region",
-                    "v": 2,
-                    "pu": "rgn"
-                },
-                {
-                    "pl": "Город / Район",
-                    "vl": "Гомель",
-                    "p": "area",
-                    "v": "5",
-                    "pu": "ar"
-                },
-                {
-                    "pl": "Тип оплаты",
-                    "vl": "Цена",
-                    "p": "remuneration_type",
-                    "v": "1",
-                    "pu": "rtr"
-                },
-                {
-                    "pl": "Производитель",
-                    "vl": "Apple",
-                    "p": "phones_brand",
-                    "v": "5",
-                    "pu": "pb"
-                },
-                {
-                    "pl": "Модель",
-                    "vl": "iPhone 12 Pro Max",
-                    "p": "phones_model",
-                    "v": "3750",
-                    "pu": "phm"
-                },
-                {
-                    "pl": "Состояние",
-                    "vl": "Б/у",
-                    "p": "condition",
-                    "v": "1",
-                    "pu": "cnd"
-                },
-                {
-                    "pl": "Товары с Куфар Доставкой",
-                    "vl": "Да",
-                    "p": "delivery_enabled",
-                    "v": true,
-                    "pu": "dle"
-                },
-                {
-                    "pl": "Возможен обмен",
-                    "vl": "Да",
-                    "p": "possible_exchange",
-                    "v": true,
-                    "pu": "pse"
-                }
-            ],
-            "body": null,
-            "category": "17010",
-            "company_ad": false,
-            "currency": "BYR",
-            "images": [
-                {
-                    "id": "0233360536",
-                    "yams_storage": true
-                },
-                {
-                    "id": "0241883855",
-                    "yams_storage": true
-                }
-            ],
-            "list_id": 158750648,
-            "list_time": "2023-04-15T04:24:19Z",
-            "message_id": "adid183930337",
-            "paid_services": {
-                "halva": true,
-                "highlight": false,
-                "polepos": false,
-                "ribbons": null
-            },
-            "phone_hidden": true,
-            "price_byn": "205000",
-            "price_usd": "71050",
-            "remuneration_type": "1",
-            "subject": "iPhone 12 Pro Max ",
-            "type": "sell"
-        },
-        {
-            "account_id": 0,
-            "account_parameters": [
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
                     "v": "Ирина",
                     "pu": "nme"
                 }
@@ -5629,11 +5521,32 @@
             "account_id": 0,
             "account_parameters": [
                 {
+                    "pl": "Наименование регистрирующего органа",
+                    "vl": "",
+                    "p": "egr_authority",
+                    "v": "Минский облисполком Минский районный исполнительный комитет",
+                    "pu": "ea"
+                },
+                {
+                    "pl": "Контактное лицо",
+                    "vl": "",
+                    "p": "contact_person",
+                    "v": "Александр",
+                    "pu": "cp"
+                },
+                {
                     "pl": "Дата",
                     "vl": "",
                     "p": "commercial_register_date",
                     "v": "22.05.19",
                     "pu": "crde"
+                },
+                {
+                    "pl": "Дата",
+                    "vl": "",
+                    "p": "egr_date",
+                    "v": "17.08.21",
+                    "pu": "ed"
                 },
                 {
                     "pl": "Ссылка на интернет-магазин",
@@ -5643,18 +5556,25 @@
                     "pu": "wsl"
                 },
                 {
-                    "pl": "Наименование регистрирующего органа",
-                    "vl": "",
-                    "p": "egr_authority",
-                    "v": "Минский облисполком Минский районный исполнительный комитет",
-                    "pu": "ea"
-                },
-                {
                     "pl": "Адрес торговой точки",
                     "vl": "",
                     "p": "shop_address",
                     "v": "https://www.айфоны.бел",
                     "pu": "sa"
+                },
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": " ООО ''СМАРТТЕХНОМАРКЕТБАЙ''",
+                    "pu": "nme"
+                },
+                {
+                    "pl": "Юридический адрес/Адрес регистрации",
+                    "vl": "",
+                    "p": "company_address",
+                    "v": "223053 Минский район, д. Боровая-1, к.503\\30-5",
+                    "pu": "ca"
                 },
                 {
                     "pl": "УНП",
@@ -5664,11 +5584,11 @@
                     "pu": "vn"
                 },
                 {
-                    "pl": "Имя",
+                    "pl": "Номер",
                     "vl": "",
-                    "p": "name",
-                    "v": " ООО ''СМАРТТЕХНОМАРКЕТБАЙ''",
-                    "pu": "nme"
+                    "p": "commercial_register_number",
+                    "v": "3575511",
+                    "pu": "crn"
                 },
                 {
                     "pl": "Посмотреть это объявление на сайте продавца",
@@ -5683,52 +5603,24 @@
                     "p": "egr_number",
                     "v": "692189596",
                     "pu": "en"
-                },
-                {
-                    "pl": "Номер",
-                    "vl": "",
-                    "p": "commercial_register_number",
-                    "v": "3575511",
-                    "pu": "crn"
-                },
-                {
-                    "pl": "Дата",
-                    "vl": "",
-                    "p": "egr_date",
-                    "v": "17.08.21",
-                    "pu": "ed"
-                },
-                {
-                    "pl": "Юридический адрес/Адрес регистрации",
-                    "vl": "",
-                    "p": "company_address",
-                    "v": "223053 Минский район, д. Боровая-1, к.503\\30-5",
-                    "pu": "ca"
-                },
-                {
-                    "pl": "Контактное лицо",
-                    "vl": "",
-                    "p": "contact_person",
-                    "v": "Александр",
-                    "pu": "cp"
                 }
             ],
             "ad_id": 135939258,
             "ad_link": "https://www.kufar.by/item/135939258",
             "ad_parameters": [
                 {
-                    "pl": "Видео",
-                    "vl": "",
-                    "p": "content_video",
-                    "v": "https://youtu.be/1EnDE-Sd_fw",
-                    "pu": "cnvi"
-                },
-                {
                     "pl": "Подкатегория",
                     "vl": "Мобильные телефоны",
                     "p": "category",
                     "v": 17010,
                     "pu": "cat"
+                },
+                {
+                    "pl": "Видео",
+                    "vl": "",
+                    "p": "content_video",
+                    "v": "https://youtu.be/1EnDE-Sd_fw",
+                    "pu": "cnvi"
                 },
                 {
                     "pl": "Область",
@@ -5929,55 +5821,6 @@
             "account_id": 0,
             "account_parameters": [
                 {
-                    "pl": "Дата",
-                    "vl": "",
-                    "p": "commercial_register_date",
-                    "v": "22.05.19",
-                    "pu": "crde"
-                },
-                {
-                    "pl": "Контактное лицо",
-                    "vl": "",
-                    "p": "contact_person",
-                    "v": "Александр",
-                    "pu": "cp"
-                },
-                {
-                    "pl": "УНП",
-                    "vl": "",
-                    "p": "vat_number",
-                    "v": "193242541",
-                    "pu": "vn"
-                },
-                {
-                    "pl": "Номер",
-                    "vl": "",
-                    "p": "commercial_register_number",
-                    "v": "3575511",
-                    "pu": "crn"
-                },
-                {
-                    "pl": "Имя",
-                    "vl": "",
-                    "p": "name",
-                    "v": " ООО ''МОБИЛИМПОРТБЕЛ''",
-                    "pu": "nme"
-                },
-                {
-                    "pl": "Дата",
-                    "vl": "",
-                    "p": "egr_date",
-                    "v": "17.04.19",
-                    "pu": "ed"
-                },
-                {
-                    "pl": "Наименование регистрирующего органа",
-                    "vl": "",
-                    "p": "egr_authority",
-                    "v": "Администрация Совецкого района",
-                    "pu": "ea"
-                },
-                {
                     "pl": "Ссылка на интернет-магазин",
                     "vl": "",
                     "p": "web_shop_link",
@@ -5985,18 +5828,11 @@
                     "pu": "wsl"
                 },
                 {
-                    "pl": "Посмотреть это объявление на сайте продавца",
+                    "pl": "Номер",
                     "vl": "",
-                    "p": "import_link",
-                    "v": "https://www.айфоны.бел/#iPhoneXS_menulink",
-                    "pu": "il"
-                },
-                {
-                    "pl": "Юридический адрес/Адрес регистрации",
-                    "vl": "",
-                    "p": "company_address",
-                    "v": "220013, г. Минск, ул. Я. Коласа, д. 37, оф. 16.",
-                    "pu": "ca"
+                    "p": "commercial_register_number",
+                    "v": "3575511",
+                    "pu": "crn"
                 },
                 {
                     "pl": "Адрес торговой точки",
@@ -6011,24 +5847,80 @@
                     "p": "egr_number",
                     "v": "193242541",
                     "pu": "en"
+                },
+                {
+                    "pl": "Дата",
+                    "vl": "",
+                    "p": "egr_date",
+                    "v": "17.04.19",
+                    "pu": "ed"
+                },
+                {
+                    "pl": "Юридический адрес/Адрес регистрации",
+                    "vl": "",
+                    "p": "company_address",
+                    "v": "220013, г. Минск, ул. Я. Коласа, д. 37, оф. 16.",
+                    "pu": "ca"
+                },
+                {
+                    "pl": "Дата",
+                    "vl": "",
+                    "p": "commercial_register_date",
+                    "v": "22.05.19",
+                    "pu": "crde"
+                },
+                {
+                    "pl": "Наименование регистрирующего органа",
+                    "vl": "",
+                    "p": "egr_authority",
+                    "v": "Администрация Совецкого района",
+                    "pu": "ea"
+                },
+                {
+                    "pl": "Контактное лицо",
+                    "vl": "",
+                    "p": "contact_person",
+                    "v": "Александр",
+                    "pu": "cp"
+                },
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": " ООО ''МОБИЛИМПОРТБЕЛ''",
+                    "pu": "nme"
+                },
+                {
+                    "pl": "Посмотреть это объявление на сайте продавца",
+                    "vl": "",
+                    "p": "import_link",
+                    "v": "https://www.айфоны.бел/#iPhoneXS_menulink",
+                    "pu": "il"
+                },
+                {
+                    "pl": "УНП",
+                    "vl": "",
+                    "p": "vat_number",
+                    "v": "193242541",
+                    "pu": "vn"
                 }
             ],
             "ad_id": 126010041,
             "ad_link": "https://www.kufar.by/item/126010041",
             "ad_parameters": [
                 {
-                    "pl": "Видео",
-                    "vl": "",
-                    "p": "content_video",
-                    "v": "https://youtu.be/1EnDE-Sd_fw",
-                    "pu": "cnvi"
-                },
-                {
                     "pl": "Подкатегория",
                     "vl": "Мобильные телефоны",
                     "p": "category",
                     "v": 17010,
                     "pu": "cat"
+                },
+                {
+                    "pl": "Видео",
+                    "vl": "",
+                    "p": "content_video",
+                    "v": "https://youtu.be/1EnDE-Sd_fw",
+                    "pu": "cnvi"
                 },
                 {
                     "pl": "Область",
@@ -6444,6 +6336,193 @@
             "remuneration_type": "1",
             "subject": "Айфон 7+",
             "type": "sell"
+        },
+        {
+            "account_id": 0,
+            "account_parameters": [
+                {
+                    "pl": "Имя",
+                    "vl": "",
+                    "p": "name",
+                    "v": "Евгения",
+                    "pu": "nme"
+                }
+            ],
+            "ad_id": 191636023,
+            "ad_link": "https://www.kufar.by/item/191636023",
+            "ad_parameters": [
+                {
+                    "pl": "Подкатегория",
+                    "vl": "Мобильные телефоны",
+                    "p": "category",
+                    "v": 17010,
+                    "pu": "cat"
+                },
+                {
+                    "pl": "Область",
+                    "vl": "Гомельская",
+                    "p": "region",
+                    "v": 2,
+                    "pu": "rgn"
+                },
+                {
+                    "pl": "Город / Район",
+                    "vl": "Гомель",
+                    "p": "area",
+                    "v": "5",
+                    "pu": "ar"
+                },
+                {
+                    "pl": "Тип оплаты",
+                    "vl": "Цена",
+                    "p": "remuneration_type",
+                    "v": "1",
+                    "pu": "rtr"
+                },
+                {
+                    "pl": "Производитель",
+                    "vl": "Samsung",
+                    "p": "phones_brand",
+                    "v": "33",
+                    "pu": "pb"
+                },
+                {
+                    "pl": "Модель",
+                    "vl": "Galaxy S10e",
+                    "p": "phones_model",
+                    "v": "2735",
+                    "pu": "phm"
+                },
+                {
+                    "pl": "Операционная система",
+                    "vl": "Android",
+                    "p": "phablet_phones_os",
+                    "v": "1",
+                    "pu": "pos"
+                },
+                {
+                    "pl": "Память",
+                    "vl": "128 Гб",
+                    "p": "phablet_phones_memory",
+                    "v": "20",
+                    "pu": "ppm"
+                },
+                {
+                    "pl": "Оперативная память",
+                    "vl": "8 Гб",
+                    "p": "phablet_phones_ram",
+                    "v": "30",
+                    "pu": "ppr"
+                },
+                {
+                    "pl": "Поддержка 2-х симкарт",
+                    "vl": "Да",
+                    "p": "phablet_phones_2sim",
+                    "v": true,
+                    "pu": "phs"
+                },
+                {
+                    "pl": "Поддержка NFC",
+                    "vl": "Да",
+                    "p": "phablet_phones_nfc",
+                    "v": true,
+                    "pu": "phnfc"
+                },
+                {
+                    "pl": "Сканер отпечатка пальца",
+                    "vl": "Да",
+                    "p": "phablet_phones_fingerprint",
+                    "v": true,
+                    "pu": "phfp"
+                },
+                {
+                    "pl": "Слот для карты памяти",
+                    "vl": "Да",
+                    "p": "phablet_phones_memory_slot",
+                    "v": true,
+                    "pu": "phms"
+                },
+                {
+                    "pl": "Функция беспроводной зарядки",
+                    "vl": "Да",
+                    "p": "phablet_phones_wireless_charger",
+                    "v": true,
+                    "pu": "phwc"
+                },
+                {
+                    "pl": "Состояние",
+                    "vl": "Б/у",
+                    "p": "condition",
+                    "v": "1",
+                    "pu": "cnd"
+                },
+                {
+                    "pl": "Товары с Куфар Доставкой",
+                    "vl": "Да",
+                    "p": "delivery_enabled",
+                    "v": true,
+                    "pu": "dle"
+                },
+                {
+                    "pl": "Товары с Куфар Оплатой",
+                    "vl": "-",
+                    "p": "safedeal_enabled",
+                    "v": false,
+                    "pu": "sde"
+                },
+                {
+                    "pl": "Возможен обмен",
+                    "vl": "Да",
+                    "p": "possible_exchange",
+                    "v": true,
+                    "pu": "pse"
+                }
+            ],
+            "body": null,
+            "category": "17010",
+            "company_ad": false,
+            "currency": "BYR",
+            "images": [
+                {
+                    "id": "5995439279",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5946579193",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5957978333",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5909118247",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5903962598",
+                    "yams_storage": true
+                },
+                {
+                    "id": "5983548290",
+                    "yams_storage": true
+                }
+            ],
+            "list_id": 163792130,
+            "list_time": "2023-04-12T13:16:43Z",
+            "message_id": "adid191636023",
+            "paid_services": {
+                "halva": false,
+                "highlight": false,
+                "polepos": false,
+                "ribbons": null
+            },
+            "phone_hidden": true,
+            "price_byn": "50000",
+            "price_usd": "17329",
+            "remuneration_type": "1",
+            "subject": "Обменяю на хороший велик срочно s10e",
+            "type": "sell"
         }
     ],
     "pagination": {
@@ -6466,7 +6545,7 @@
             {
                 "label": "next",
                 "num": 13,
-                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODEzMDczNDcwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkxNjM5MDU4fV0sImYiOnRydWV9"
+                "token": "eyJ0IjoicmVsIiwiYyI6W3sibiI6Imxpc3RfdGltZSIsInYiOjE2ODEzMDU0MDMwMDB9LHsibiI6ImFkX2lkIiwidiI6MTkxNjM2MDIzfV0sImYiOnRydWV9"
             },
             {
                 "label": "",
@@ -6475,5 +6554,5 @@
             }
         ]
     },
-    "total": 787
+    "total": 786
 }

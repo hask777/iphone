@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup as bs
 import schedule
 # from check_id import check_ids
-from today import check_today_iphones
+from today import listen_today_iphones
 from del_files import clear_files
 import os
 import shutil
@@ -86,7 +86,7 @@ def data_get(url):
 def start():
     clear_files()
     data_get(first_url)
-    check_today_iphones()
+    listen_today_iphones()
     # check_ids()
 
 
